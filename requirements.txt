@@ -1,0 +1,12 @@
+streamlit>=1.33
+pandas>=2.0
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=4.9
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# GigaChat SDK
+gigachat>=0.4.1
+
